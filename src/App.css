@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+
+}
+.form-label{
+  font-family: cursive;
+ 
+}
+.card{
+  align-items: center;
+  margin-left: 400px;
+  background-image: url('../public/imge.jpg');
+  padding: 10px;
+}
+.container {
+padding: 5em;
+}
